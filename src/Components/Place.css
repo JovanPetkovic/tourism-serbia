@@ -1,0 +1,17 @@
+.place{
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 1rem;
+    margin: 1rem 4rem;
+}
+
+.place img{
+    width: 250px;
+    height: auto;
+}
